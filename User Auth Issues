@@ -1,0 +1,7 @@
+net user - lists all user accounts on the computer
+Net user cchidiac - lists details about user account
+Net user cchidiac password - updates password 
+Net user /add exampleAccount - creates a new local user with username specified
+net localgroup administrators username /add - adds account to administrators group
+Net user cchidiac /domain - view user's domain information.
+gpupdate /force - forces group policy updates 
