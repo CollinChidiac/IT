@@ -1,0 +1,6 @@
+To find a device name - .\
+Show system properties, quick way to change domain - sysdm.cpl
+Add or remove programs in control panel - appwiz.cpl
+Print out useful system/device info - Systeminfo
+Print out a battery report - powercfg /batteryreport
+Get motherboard of computer - wmic baseboard get product,manufacturer
